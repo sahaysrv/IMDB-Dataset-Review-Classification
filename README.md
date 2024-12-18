@@ -12,11 +12,7 @@ The IMDB dataset is a widely used dataset for binary sentiment classification. I
   - Test Set: 25,000 labeled reviews (50% positive, 50% negative)
   - Unlabeled Data: 50,000 reviews (for unsupervised learning tasks)
 
-## File Structure
-
-
-### 3. `unsup/`
-Contains 50,000 unlabeled reviews, which can be used for pretraining or unsupervised learning tasks.
+### Contains 50,000 unlabeled reviews, which can be used for pretraining or unsupervised learning tasks.
 
 ## Format
 
