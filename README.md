@@ -7,10 +7,6 @@ The IMDB dataset is a widely used dataset for binary sentiment classification. I
 
 - **Source**: [IMDB Movie Reviews][(https://ai.stanford.edu/~amaas/data/sentiment/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Task**: Binary sentiment classification (positive or negative sentiment)
-- **Dataset Size**:
-  - Training Set: 25,000 labeled reviews (50% positive, 50% negative)
-  - Test Set: 25,000 labeled reviews (50% positive, 50% negative)
-  - Unlabeled Data: 50,000 reviews (for unsupervised learning tasks)
 
 ### Contains 50,000 unlabeled reviews, which can be used for pretraining or unsupervised learning tasks.
 
